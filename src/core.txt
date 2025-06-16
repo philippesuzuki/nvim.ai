@@ -1,0 +1,1 @@
+Inspired by Zed AI, it allows you to chat with your buffers, insert code with an

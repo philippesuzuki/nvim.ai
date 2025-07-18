@@ -1,1 +1,2 @@
 Inspired by Zed AI, it allows you to chat with your buffers, insert code with an
+# avoid re-reading the config on every call

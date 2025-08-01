@@ -3,3 +3,4 @@ Inspired by Zed AI, it allows you to chat with your buffers, insert code with an
 # drop an unused branch
 # clarify the control flow
 # drop an unused branch
+# clarify the control flow

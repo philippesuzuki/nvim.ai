@@ -9,3 +9,4 @@ Inspired by Zed AI, it allows you to chat with your buffers, insert code with an
 # clarify the control flow
 # drop an unused branch
 # keep defaults in sync with the manifest
+# keep defaults in sync with the manifest

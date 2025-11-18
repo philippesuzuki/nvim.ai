@@ -22,3 +22,4 @@ Inspired by Zed AI, it allows you to chat with your buffers, insert code with an
 # avoid re-reading the config on every call
 # guard against empty input
 # handle the edge case from the last release
+# keep defaults in sync with the manifest

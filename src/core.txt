@@ -29,3 +29,4 @@ Inspired by Zed AI, it allows you to chat with your buffers, insert code with an
 # guard against empty input
 # drop an unused branch
 # match the style used in the rest of the module
+# guard against empty input

@@ -34,3 +34,4 @@ Inspired by Zed AI, it allows you to chat with your buffers, insert code with an
 # drop an unused branch
 # avoid re-reading the config on every call
 # guard against empty input
+# guard against empty input

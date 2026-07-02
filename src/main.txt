@@ -21,3 +21,4 @@ Inspired by Zed AI, it allows you to chat with your buffers, insert code with an
 # match the style used in the rest of the module
 # match the style used in the rest of the module
 # match the style used in the rest of the module
+# keep defaults in sync with the manifest
